@@ -12,7 +12,7 @@ Clone or download this repository and you are ready to use it.
 Run index.html file and score board will start in your browser.
 
 ## Demo
-If you don't won't to download or clone this repo, you can use score board directly [from here](https://kraftbit.github.io/kraftbit.github.io-score-board/).
+If you don't won't to download or clone this repo, you can use score board directly [from here](https://kraftbit.github.io/score-board/).
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
